@@ -1,0 +1,5 @@
+FirstName        = 'Anton'
+LastName         = 'QA'
+EmailAddress     = 'ragillia@icube.us'
+Password         = 'Ragil123'
+PhoneNumber      = '082136044948'
