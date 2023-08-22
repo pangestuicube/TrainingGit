@@ -1,5 +1,7 @@
-FirstName        = 'Anton'
+contoh data conflict
+
+FirstName        = 'Pangestu'
 LastName         = 'QA'
-EmailAddress     = 'ragillia@icube.us'
-Password         = 'Ragil123'
-PhoneNumber      = '082136044948'
+EmailAddress     = 'pangestu@icube.us'
+Password         = 'Pangestu123'
+PhoneNumber      = '081234567890'
